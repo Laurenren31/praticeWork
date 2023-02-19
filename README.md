@@ -3,7 +3,7 @@
 
 索引
 --
-- [work1-bootstrap & form](#work1-bootstrap & form)
+- [work1-bootstrap & form](#work-1-bootstrap--form)
 - [work2-待新增](#待新增)
 
 ## work1-bootstrap & form
